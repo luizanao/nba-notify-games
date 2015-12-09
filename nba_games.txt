@@ -1,0 +1,70 @@
+28/10/2015, 00h30 - Golden State Warriors x New Orleans Pelicans
+30/10/2015, 00h30 - Los Angeles Clippers x Dallas Mavericks
+31/10/2015, 21h30 - New Orleans Pelicans x Golden State Warriors
+02/11/2015, 23h00 - Houston Rockets x Oklahoma City Thunder
+03/11/2015, 22h30 - Miami Heat x Atlanta Hawks
+07/11/2015, 23h30 - Dallas Mavericks x New Orleans Pelicans
+10/11/2015, 22h00 - Washington Wizards x Oklahoma City Thunder
+15/11/2015, 22h00 - Oklahoma City Thunder x Boston Celtics
+16/11/2015, 23h30 - San Antonio Spurs x Portland Trail Blazers
+20/11/2015, 01h30 - Los Angeles Clippers x Golden State Warriors
+21/11/2015, 23h30 - San Antonio Spurs x Memphis Grizzlies
+23/11/2015, 22h30 - Miami Heat x New York Knicks
+25/11/2015, 01h30 - Golden State Warriors x Los Angeles Lakers
+28/11/2015, 23h30 - San Antonio Spurs x Atlanta Hawks
+30/11/2015, 23h00 - Chicago Bulls x San Antonio Spurs
+01/12/2015, 22h00 - Cleveland Cavaliers x Washington Wizards
+04/12/2015, 00h30 - Memphis Grizzlies x San Antonio Spurs
+05/12/2015, 23h00 - Miami Heat x Cleveland Cavaliers
+06/12/2015, 21h00 - Washington Wizards x Dallas Mavericks
+12/12/2015, 23h00 - Chicago Bulls x New Orleans Pelicans
+13/12/2015, 21h00 - Miami Heat x Memphis Grizzlies
+14/12/2015, 22h00 - Indiana Pacers x Toronto Raptors
+15/12/2015, 22h30 - Boston Celtics x Cleveland Cavaliers
+18/12/2015, 01h30 - Los Angeles Lakers x Houston Rockets
+19/12/2015, 23h00 - Houston Rockets x Los Angeles Clippers
+20/12/2015, 21h00 - Toronto Raptors x Sacramento Kings
+22/12/2015, 01h30 - Los Angeles Clippers x Oklahoma City Thunder
+22/12/2015, 22h30 - Toronto Raptors x Dallas Mavericks
+26/12/2015, 23h30 - Dallas Mavericks x Chicago Bulls
+27/12/2015, 22h00 - Boston Celtics x New York Knicks
+28/12/2015, 23h30 - Dallas Mavericks x Milwaukee Bucks
+29/12/2015, 23h00 - Houston Rockets x Atlanta Hawks
+02/12/2015, 23h00 - Rockets x Pelicans
+03/12/2015, 01h00 - Kings x Celtics
+04/12/2015, 00h30 - Pelicans x Cavaliers
+09/12/2015, 22h30 - Raptors x Spurs
+11/12/2015, 00h30 - Spurs x Lakers
+16/12/2015, 23h00 - Bulls x Grizzlies
+18/12/2015, 23h00 - Spurs x Clippers
+23/12/2015, 22h00 - Wizards x Grizzlies
+25/12/2015, 20h00 - Warriors x Cavaliers
+30/12/2015, 23h30 - Mavericks x Warriors
+01/01/2016, 23h00 - Bulls x Knicks
+06/01/2016, 22h00 - Wizards x Cavaliers
+08/01/2016, 23h00 - Timberwolves x Cavaliers
+13/01/2016, 23h00 - Celtics x Pacers
+15/01/2016, 22h00 - Thunder x Timberwolves
+20/01/2016, 23h00 - Bulls x Warriors
+22/01/2016, 23h00 - Raptors x Heat
+27/01/2016, 23h00 - Spurs x Rockets
+29/01/2016, 23h00 - Thunder x Rockets
+03/02/2016, 23h00 - Wizards x Warriors
+05/02/2016, 00h30 - Mavericks x Spurs
+10/02/2016, 23h00 - Cavaliers x Lakers
+19/02/2016, 23h00 - Hawks x Heat
+24/02/2016, 22h00- Bulls x Wizards
+26/02/2016, 22h00 - Hawks x Bulls
+02/03/2016, 22h00 - Rockets x Pelicans 
+04/03/2016, 23h30 - Cavaliers x Wizards 
+09/03/2016, 23h30 - Thunder x Clippers
+11/03/2016, 22h00 - Bulls x Heat
+16/03/2016, 22h30 - Rockets x Clippers 
+18/03/2016, 21h30 - Mavericks x Warriors 
+23/03/2016, 21h00 - Cavaliers x Bucks
+25/03/2016, 21h30 - Spurs x Grizzlies 
+30/03/2016, 21h00 - Timberwolves x Clippers
+01/04/2016, 21h00 - Hawks x Cavaliers 
+06/04/2016, 22h30 - Mavericks x Rockets 
+08/04/2016, 21h00 - Pelicans x Lakers 
+13/04/2016, 21h00 - Hornets x Magic
